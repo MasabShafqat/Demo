@@ -1,3 +1,3 @@
 # Demo
-This  is my first repository
-Auther - Masab 
+This  is my first repository <br>
+Author - Masab 
